@@ -1,0 +1,1 @@
+This project comes under the health care domain.It contains Doctor module,Patient module,saveDoctor module for saving the records of the Doctors,savePatient as same as saveDoctor module,ListApi module
